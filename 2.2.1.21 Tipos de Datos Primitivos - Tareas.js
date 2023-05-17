@@ -66,3 +66,7 @@ console.log(typeof bool, `${bool}`);
 const str1 = 42 + Number("1");
 console.log(typeof str1, `${str1}`);
 
+
+const str1 = 42 + + "1";
+console.log(typeof str1, `${str1}`);
+
